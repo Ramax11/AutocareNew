@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "androidfriendlychat",
+  "private_key_id": "f7231d74c686f0ec1825025b434eb91b8b1cea85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/xj95VCLmhPkh\nWQpALSS029B9KMpo0nayTeL34WIyGTMYUObfXKjB5SP7TIJfTIGxsoCtakE7TbwQ\nlqbEMGKaKQLszhZi79p/AyBkm7H5YpmpQ0FNm303Cos1kpJ2Gwx5QNW9QiAZFydz\n/ySplOlPEm3BAZXVyEaYSxX5cd3X5vpr8sLFw1xXtJePbgEW7k6ErcWn4LRZ2E5g\nmLYBzwbsFZz5+e0JLuy8WiI3PpbGPQAlICdbMTRs5FGNbzB+CCmM8A6SlhlVO2CM\nQCtgyHmBf8m9FK8xBmPOtj2SZSAp7pNAg8C4fjFOEUKU7QU5agwdDT9gXXJRdO7+\n8h+6IHZlAgMBAAECggEAMBkT0GVWv4Q4S7HeTUxFOYssFkgFxBaNKJk6RLtlenUx\niHa6AOlndgH3bU66IBa7LIs9lMDijXIoqexu9SPBhzKkBiqGGNhZb6OkGzelgovF\nSFuS5FkMJaLiWVRioXaVQVAOi4IrNL/G6GPkmRe9EFTp7A9uugiaFBY487AoWL6o\n/f0YUHtCu/wSdpM1guzaGm2gylOAY4iRFVY/QI9Bkq3H2gIu9wufXwyrI7enewJd\n6yiSpg+tT9W/0qTVEegBI6ATS8IpjfzqLrXiUFYXGTcveb44+IPCBU2mxuT3P79K\n5yOmicxOrh6K1PqaNWPWrtqPzp4fhC1zCcdmhOyUQQKBgQD0mYu4CnA2l0sd9oOj\nUMMx1NcpJvV3al74KCOIng6N4qbCMFOXOHM1MsLtlmX2yNNi4c0IUY42XY653MZW\nSN0ezynkSep3cQ/avA43mura6I4akB5wR/TSihJl9BVVjor5x61HZ0LcV3xMbYaM\nGni94TyvmLM8Uur24Ro/S5mWkQKBgQDItmnfLRai/7XUkvyWVsnlFMQa9GJzWkUT\nCHuVuh7qS+Zlq3stqRI2PfmqVdOTYTOWSv7NooMW/KTTcZpzR3OaeDrl7fDvP4IB\ng0Fm4aj8cgDL5Xapta02O8h88zaC99zadUsx8opdmbj4h1lHTDucaE68pcqKrzPO\nm045O7CUlQKBgB2NR5IuwKv3z32JQRJEObEVlAFG0bVhxqOYxeJFpmCCF7+ycwb8\nLP8qaN6nox4T2WZC/bCZmeL7nrjZ8aSPHRgR02/fdlKD+HRm8BjLwMA+BJ00+Fh8\neRnO0LY8rS8vD59p/od39F4Gu9/IA899i0T1p41Xl6AcLIMzYyZujdnhAoGBAMgS\njZaaK2Zv36D2pDJ4cOiZuqHj2f+CjDhczFSEIy0KW7AdL7xkPHM1dBoHU9AlpHa8\nayIwTNwtG2BqbbtcDjB8iLmKZhEXDVDUte0IJJsASSr2oUKqhu74yPFEv6Ht0Yky\nQrKXQrXq9idHRAd+Ri2zDEmgOjXkT5Az39XNWkfBAoGBAL2h3FPCd42znC3mIn2f\n8Zqyq8OvF0UK6cm6QMsHfq/vORwL0YXUPsHB/SvR+F/3tcpCGXbGqbkUCNf42D1h\nCZGRKNMIwUsjiZBoNS0ewxcZms8qfNt/ReErTizCx78tYik8YoVrhe4DgMowyIBI\n++4FLNnJ2hFt+BzOmSa9NNca\n-----END PRIVATE KEY-----\n",
+  "client_email": "ramsample@androidfriendlychat.iam.gserviceaccount.com",
+  "client_id": "100834999485510382602",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ramsample%40androidfriendlychat.iam.gserviceaccount.com"
+}
